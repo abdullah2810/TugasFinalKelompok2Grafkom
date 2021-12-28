@@ -2,7 +2,7 @@
     #include <GL/glut.h>
 
 
-// Tugas Pengerjaan untuk Abdullah Al hayad A
+// Tugas Pengerjaan untuk Abdullah Al Hayad A
 
     //Initializes 3D rendering
     void initRendering() {
