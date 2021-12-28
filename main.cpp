@@ -15,7 +15,7 @@
      glShadeModel(GL_SMOOTH); //Enable smooth shading
     }
 
-    //Called when the window is resized
+    //
     void handleResize(int w, int h) {
      glMatrixMode(GL_PROJECTION);
      glLoadIdentity();
