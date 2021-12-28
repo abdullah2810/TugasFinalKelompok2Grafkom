@@ -2,7 +2,7 @@
     #include <GL/glut.h>
 
 
-// Tugas Final Pengerjaan untuk Abdullah Al hayad A 
+// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A 
     //Initializes 3D rendering
     void initRendering() {
      glEnable(GL_DEPTH_TEST);
