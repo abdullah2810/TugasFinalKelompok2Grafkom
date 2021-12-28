@@ -219,7 +219,7 @@
      glVertex3f(-1.8f, -3.0f, -1.2f);
 
 
-//Tugas Coding Untuk Findriyani
+//Tugas Coding Untuk Findriyani E1E120069
 
      //back
      glNormal3f(0.0f, 0.0f, -1.0f);
