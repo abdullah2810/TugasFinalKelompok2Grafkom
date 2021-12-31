@@ -2,8 +2,12 @@
     #include <GL/glut.h>
 
 
+<<<<<<< HEAD
 // Tugas Pengerjaan untuk Abdullah Al Hayad A
 
+=======
+// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A 
+>>>>>>> a40e001ba196705bb5f59da4bec331718852e871
     //Initializes 3D rendering
     void initRendering() {
      glEnable(GL_DEPTH_TEST);
@@ -105,7 +109,7 @@
      glVertex3f(-2.0f, -0.2f, -2.0f);
      glVertex3f(2.0f, -0.2f, -2.0f);
 
-//Tugas Coding Untuk Frida Mimi Wahyuni
+//Tugas Coding Untuk Frida Mimi Wahyuni E1E119005
 
         //table front leg
         //front
@@ -259,7 +263,7 @@
      }
 
 
-//Tugas Coding untuk Dinar Sabrina
+//Tugas Coding untuk Dinar Sabrina E1E120027
      glutPostRedisplay();
      glutTimerFunc(25, update, 0);
     }
