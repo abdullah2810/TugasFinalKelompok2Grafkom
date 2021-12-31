@@ -43,7 +43,7 @@
      glLightfv(GL_LIGHT0, GL_DIFFUSE, lightColor0);
      glLightfv(GL_LIGHT0, GL_POSITION, lightPos0);
 
-     //Add directed light
+     //Add directed light 
      GLfloat lightColor1[] = {0.5f, 0.2f, 0.2f, 1.0f}; //Color (0.5, 0.2, 0.2)
      //Coming from the direction (-1, 0.5, 0.5)
      GLfloat lightPos1[] = {-1.0f, 0.5f, 0.5f, 0.0f};
