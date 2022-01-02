@@ -2,12 +2,12 @@
     #include <GL/glut.h>
 
 
-<<<<<<< HEAD
+
 // Tugas Pengerjaan untuk Abdullah Al Hayad A
 
-=======
-// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A 
->>>>>>> a40e001ba196705bb5f59da4bec331718852e871
+
+// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A
+
     //Initializes 3D rendering
     void initRendering() {
      glEnable(GL_DEPTH_TEST);
@@ -28,7 +28,7 @@
 
     float _angle = -70.0f;
 
-    //Draws 
+    //Draws
     void drawScene() {
      glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
@@ -47,7 +47,7 @@
      glLightfv(GL_LIGHT0, GL_DIFFUSE, lightColor0);
      glLightfv(GL_LIGHT0, GL_POSITION, lightPos0);
 
-     //Add directed light 
+     //Add directed light
      GLfloat lightColor1[] = {0.5f, 0.2f, 0.2f, 1.0f}; //Color (0.5, 0.2, 0.2)
      //Coming from the direction (-1, 0.5, 0.5)
      GLfloat lightPos1[] = {-1.0f, 0.5f, 0.5f, 0.0f};
