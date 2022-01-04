@@ -3,7 +3,7 @@
 
 
 
-// Tugas Pengerjaan untuk Abdullah Al Hayad A
+// Tugas Pengerjaan untuk Abdullah Al Hayad 
 
 
 // Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A
@@ -63,7 +63,7 @@
       glColor3f(1.0f, 1.0f, 0.0f);
      glBegin(GL_QUADS);
 
-//Tugas Untuk Wa Ode Anti
+//Tugas Untuk Wa Ode Anti E1E119083
 
      //Front
         glNormal3f(0.0f, 0.0f, 1.0f);
