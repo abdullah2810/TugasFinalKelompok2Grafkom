@@ -3,7 +3,7 @@
 
 
 
-// Tugas Pengerjaan untuk Abdullah Al Hayad A
+// Tugas Pengerjaan untuk Abdullah Al Hayad 
 
 
 // Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A
