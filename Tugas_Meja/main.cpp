@@ -2,7 +2,7 @@
     #include <GL/glut.h>
 
 
-//fianl
+
 // Tugas Pengerjaan untuk Abdullah Al Hayad
 
 
@@ -53,10 +53,6 @@
      GLfloat lightPos1[] = {-1.0f, 0.5f, 0.5f, 0.0f};
      glLightfv(GL_LIGHT1, GL_DIFFUSE, lightColor1);
      glLightfv(GL_LIGHT1, GL_POSITION, lightPos1);
-
-     glRotatef(10, 1.0f, 0.0f, 0.0f);
-     glRotatef(-10, 0.0f, 0.0f, 1.0f);
-     glRotatef(_angle,0.0f, 1.0f, 0.0f);
      //glRotatef(10, 1.0f, 0.0f, 0.0f);
      //glRotatef(-10, 0.0f, 0.0f, 1.0f);
      //glRotatef(_angle,0.0f, 1.0f, 0.0f);
