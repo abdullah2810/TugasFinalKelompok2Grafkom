@@ -63,7 +63,7 @@
       glColor3f(1.0f, 1.0f, 0.0f);
      glBegin(GL_QUADS);
 
-//Tugas Untuk Wa Ode Anti E1E119083
+//Tugas Untuk Wa Ode Anti 
 
      //Front
         glNormal3f(0.0f, 0.0f, 1.0f);
