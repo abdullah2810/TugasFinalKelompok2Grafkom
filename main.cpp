@@ -2,7 +2,12 @@
     #include <GL/glut.h>
 
 
-// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A 
+
+// Tugas Pengerjaan untuk Abdullah Al Hayad A
+
+
+// Tugas Final Grafkom Pengerjaan untuk Abdullah Al hayad A
+
     //Initializes 3D rendering
     void initRendering() {
      glEnable(GL_DEPTH_TEST);
@@ -14,7 +19,7 @@
      glShadeModel(GL_SMOOTH); //Enable smooth shading
     }
 
-    //Called when the window is resized
+    //
     void handleResize(int w, int h) {
      glMatrixMode(GL_PROJECTION);
      glLoadIdentity();
@@ -23,7 +28,7 @@
 
     float _angle = -70.0f;
 
-    //Draws the 3D scene
+    //Draws
     void drawScene() {
      glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
@@ -58,7 +63,7 @@
       glColor3f(1.0f, 1.0f, 0.0f);
      glBegin(GL_QUADS);
 
-//Tugas Untuk Wa Ode Anti
+//Tugas Untuk Wa Ode Anti 
 
      //Front
         glNormal3f(0.0f, 0.0f, 1.0f);
