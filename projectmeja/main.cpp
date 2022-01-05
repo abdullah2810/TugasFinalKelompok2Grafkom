@@ -63,7 +63,7 @@
       glColor3f(1.0f, 1.0f, 0.0f);
      glBegin(GL_QUADS);
 
-//Tugas Untuk Wa Ode Anti 
+//Tugas Untuk Wa Ode Anti
 
      //Front
         glNormal3f(0.0f, 0.0f, 1.0f);
@@ -263,7 +263,7 @@
      }
 
 
-//Tugas Coding untuk Dinar Sabrina E1E120027
+//Tugas Coding untuk Dinar Sabrina
      glutPostRedisplay();
      glutTimerFunc(25, update, 0);
     }
