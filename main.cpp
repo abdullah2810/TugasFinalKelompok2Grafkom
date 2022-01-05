@@ -263,7 +263,7 @@
      }
 
 
-//Tugas Coding untuk Dinar Sabrina E1E120027
+//Tugas Coding untuk Dinar Sabrina 
      glutPostRedisplay();
      glutTimerFunc(25, update, 0);
     }
